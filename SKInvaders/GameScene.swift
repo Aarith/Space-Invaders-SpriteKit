@@ -207,7 +207,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     }
     
     func makeShip() -> SKNode {
-        let ship = SKSpriteNode(imageNamed: "Ship.png")
+        let ship = SKSpriteNode(imageNamed: "enterprise3.png")
         ship.name = kShipName
         
         // 1

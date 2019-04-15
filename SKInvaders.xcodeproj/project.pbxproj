@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		20C8D8FA22652CC8004512A2 /* GameOverWin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C8D8F922652CC8004512A2 /* GameOverWin.swift */; };
+		20C8D8FC226532BA004512A2 /* enterprise2.png in Resources */ = {isa = PBXBuildFile; fileRef = 20C8D8FB226532BA004512A2 /* enterprise2.png */; };
+		20C8D8FE2265332C004512A2 /* enterprise3.png in Resources */ = {isa = PBXBuildFile; fileRef = 20C8D8FD2265332C004512A2 /* enterprise3.png */; };
 		CDF079D01975428800FFAB46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF079CF1975428800FFAB46 /* AppDelegate.swift */; };
 		CDF079D41975428800FFAB46 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF079D31975428800FFAB46 /* GameScene.swift */; };
 		CDF079D61975428800FFAB46 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF079D51975428800FFAB46 /* GameViewController.swift */; };
@@ -37,6 +39,8 @@
 
 /* Begin PBXFileReference section */
 		20C8D8F922652CC8004512A2 /* GameOverWin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverWin.swift; sourceTree = "<group>"; };
+		20C8D8FB226532BA004512A2 /* enterprise2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enterprise2.png; sourceTree = "<group>"; };
+		20C8D8FD2265332C004512A2 /* enterprise3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enterprise3.png; sourceTree = "<group>"; };
 		CDF079CA1975428800FFAB46 /* SKInvaders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKInvaders.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDF079CE1975428800FFAB46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDF079CF1975428800FFAB46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -141,6 +145,8 @@
 		CDF079F71975453100FFAB46 /* Sprite Images */ = {
 			isa = PBXGroup;
 			children = (
+				20C8D8FD2265332C004512A2 /* enterprise3.png */,
+				20C8D8FB226532BA004512A2 /* enterprise2.png */,
 				CDF079F81975453100FFAB46 /* InvaderA_00.png */,
 				CDF079F91975453100FFAB46 /* InvaderA_00@2x.png */,
 				CDF079FA1975453100FFAB46 /* InvaderA_01.png */,
@@ -224,11 +230,13 @@
 				CDF07A181975453100FFAB46 /* Ship@2x.png in Resources */,
 				CDF07A171975453100FFAB46 /* Ship.png in Resources */,
 				CDF07A0D1975453100FFAB46 /* InvaderA_01.png in Resources */,
+				20C8D8FC226532BA004512A2 /* enterprise2.png in Resources */,
 				CDF07A081975453100FFAB46 /* InvaderHit.wav in Resources */,
 				CDF07A0E1975453100FFAB46 /* InvaderA_01@2x.png in Resources */,
 				CDF07A111975453100FFAB46 /* InvaderB_01.png in Resources */,
 				CDF07A161975453100FFAB46 /* InvaderC_01@2x.png in Resources */,
 				CDF07A061975453100FFAB46 /* AssetLicensingNotes.txt in Resources */,
+				20C8D8FE2265332C004512A2 /* enterprise3.png in Resources */,
 				CDF07A131975453100FFAB46 /* InvaderC_00.png in Resources */,
 				CDF07A151975453100FFAB46 /* InvaderC_01.png in Resources */,
 				CDF07A101975453100FFAB46 /* InvaderB_00@2x.png in Resources */,
